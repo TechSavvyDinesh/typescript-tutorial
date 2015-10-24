@@ -1,0 +1,28 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "TypeScript Tutorial based on the book Learning TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TechSavvyDinesh/typescript-tutorial.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "Dinesh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechSavvyDinesh/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/TechSavvyDinesh/typescript-tutorial",
+  "devDependencies": {
+    "gulp-typescript": "^2.9.2"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}
