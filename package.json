@@ -20,7 +20,21 @@
   },
   "homepage": "https://github.com/TechSavvyDinesh/typescript-tutorial",
   "devDependencies": {
-    "gulp-typescript": "^2.9.2"
+    "chai": "^3.4.0",
+    "gulp": "^3.9.0",
+    "gulp-karma": "0.0.5",
+    "gulp-tslint": "^3.4.0",
+    "gulp-typescript": "^2.9.2",
+    "karma": "^0.13.14",
+    "karma-chai": "^0.1.0",
+    "karma-coverage": "^0.5.3",
+    "karma-mocha": "^0.2.0",
+    "karma-phantomjs-launcher": "^0.2.1",
+    "karma-sinon": "^1.0.4",
+    "mocha": "^2.3.3",
+    "phantomjs": "^1.9.18",
+    "run-sequence": "^1.1.4",
+    "sinon": "^1.17.2"
   },
   "dependencies": {
     "jquery": "^2.1.4"

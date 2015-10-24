@@ -1,0 +1,19 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "homepage": "https://github.com/TechSavvyDinesh/typescript-tutorial",
+  "authors": [
+    "dineshkumar.ilangovan@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jasmine": "~2.3.4"
+  }
+}
